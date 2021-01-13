@@ -1,7 +1,7 @@
 # Kontakt
 
 ## About
-A webscrapper to gather mass amounts of emails, for sales teams.
+A webscrapper to gather mass amounts of emails for cold emailing.
 
 ## TODO (Backend API)
  
