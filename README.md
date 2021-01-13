@@ -9,12 +9,12 @@ A webscrapper to gather mass amounts of emails, for sales teams.
 
 ## TODO (Backend Crawler)
 
- - [*] Get a list of urls
- - [*] Crawl the website
- - [*] Got the HTML
- - [*] Parse website
- - [*] Find contact emails
- - [*] Clean emails
+ - [x] Get a list of urls
+ - [x] Crawl the website
+ - [x] Got the HTML
+ - [x] Parse website
+ - [x] Find contact emails
+ - [x] Clean emails
  - [ ] Optimize
 	- [ ] Fix first few results, to generic
 	- [ ] Only look for contact, about, etc, pages
